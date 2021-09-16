@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wigglewie
+- 👋 Hi, I’m Timofey
 - 👀 I’m interested in Android and Java development
 - 🌱 I’m currently learning advanced level of Java language
 - 💞️ I’m looking to collaborate on Android development
